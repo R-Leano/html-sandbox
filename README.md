@@ -1,6 +1,6 @@
 # HTML SANDBOX
 
-My environment for leaning **HTML, CSS, and Web Development**
+My environment for learning **HTML, CSS, and Web Development**
 
 ## GOAL
 
@@ -11,10 +11,10 @@ experiment and track how I improve
 
 Each day I'll:
 
-1.**Read**: 		Learn a different component
-2.**Practice**:		Build a page, component, or layout
-3.**Notes**:		Document my daily progress
-4.**Push**:		Commit
+1. **Read**: Learn a different component
+2. **Practice**: Build a page, component, or layout
+3. **Notes**: Document my daily progress
+4. **Push**: Commit
 
 ---
 
